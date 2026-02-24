@@ -1,2 +1,5 @@
-# 2026_SkeletalMuscleAging
-Code leveraging FUSION single nucleus ATAC and RNA seq data to analyze age-associated changes 
+## 2026_SkeletalMuscleAging
+
+This repository contains the code and data analysis tools for age-associated molecular features and their enrichments in the FUSION single nucleus skeletal muscle data
+
+# Contents
