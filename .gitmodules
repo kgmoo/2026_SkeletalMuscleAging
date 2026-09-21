@@ -1,3 +1,6 @@
 [submodule "20240814_kgmoo_RNAge"]
 	path = 20240814_kgmoo_RNAge
 	url = https://github.com/kgmoo/20240814_kgmoo_RNAge.git
+[submodule "20250908_kgmoo_hSMMeta"]
+	path = 20250908_kgmoo_hSMMeta
+	url = https://github.com/kgmoo/20250908_kgmoo_hsMMeta.git
