@@ -4,3 +4,6 @@
 [submodule "20250908_kgmoo_hSMMeta"]
 	path = 20250908_kgmoo_hSMMeta
 	url = https://github.com/kgmoo/20250908_kgmoo_hsMMeta.git
+[submodule "20250428_kgmoo_ATACge"]
+	path = 20250428_kgmoo_ATACge
+	url = https://github.com/kgmoo/20250428_kgmoo_ATACge.git
