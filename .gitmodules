@@ -7,3 +7,6 @@
 [submodule "20250428_kgmoo_ATACge"]
 	path = 20250428_kgmoo_ATACge
 	url = https://github.com/kgmoo/20250428_kgmoo_ATACge.git
+[submodule "20240124_kgmoo_WolverineScripts"]
+	path = 20240124_kgmoo_WolverineScripts
+	url = https://github.com/kgmoo/20240124_kgmoo_WolverineScripts.git
